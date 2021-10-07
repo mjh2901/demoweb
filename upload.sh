@@ -18,4 +18,4 @@ git add -u && \
 git commit -m "autoupload changes via publish.sh script"
 
 # push changes to github
-git push origin master
+git push 
