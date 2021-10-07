@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://mjh2901.github.op/demoweb/sitemap.xml
+Sitemap: https://mjh2901.github.io/demoweb/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
 Disallow: /email/

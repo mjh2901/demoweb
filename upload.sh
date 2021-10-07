@@ -8,7 +8,7 @@
 # replace "ghostserver" with your actual server url
 # replace "you.github.io" with your github pages url
 
-gssg --domain "http://172.23.4.112:2368" --dest "docs" --url 'https://mjh2901.github.op/demoweb'
+gssg --domain "http://172.23.4.112:2368" --dest "docs" --url 'https://mjh2901.github.io/demoweb'
 
 # prepare changes for git
 git add * && \
